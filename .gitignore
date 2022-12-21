@@ -1,5 +1,5 @@
 reports/
-.idea
+#.idea
 screenshots/
 target/
 *.jar
