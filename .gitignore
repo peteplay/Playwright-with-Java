@@ -2,4 +2,5 @@ reports/
 #.idea
 screenshots/
 target/
+!target/cucumber-reports
 *.jar
