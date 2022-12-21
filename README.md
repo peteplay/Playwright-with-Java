@@ -1,7 +1,7 @@
 # Playwright-with-Java and Cucumber 
 ## Built and run on Intellij
 
-This project includes a cucumber feature built using Maven Java and Playwright
+This is a small project to demonstrate Test Automation using Maven Java with Cucumber and Playwright
 
 For more details click here [Playwright using Java](https://playwright.dev/java/)
 
