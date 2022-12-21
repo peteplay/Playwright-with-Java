@@ -1,7 +1,7 @@
 # Playwright-with-Java and Cucumber 
 ## Built and run on Intellij
 
-This project includes a cucumber feature built using Maven Java and the Playwright binder library
+This project includes a cucumber feature built using Maven Java and Playwright
 
 For more details click here [Playwright using Java](https://playwright.dev/java/)
 
