@@ -11,7 +11,7 @@ By default the sceanrios are run in headless mode. To change this by setting set
 
 **To run using different browsers** change the browser value to one of: chrome, firefox or webkit in the file **config.properties**
 
-When the feature file is run in intellij using the **junit test runner** (SauuceDemoTestRunner) the following cucumber report is generated. This generateds the cucumber.json file which can then be used to generate the Maven HTML Report, see further below
+When the feature file is run in intellij using the **junit test runner** (SauuceDemoTestRunner) the following cucumber report is generated. This generates the cucumber.json file which can then be used by the **maven-cucumber-reporting plugin** (defined in the POM.xml) to generate the Maven HTML Report, see further below
 
 ![image](https://user-images.githubusercontent.com/4279571/208960481-ce37603d-96c8-4808-a894-a43ce5161db6.png)
 
